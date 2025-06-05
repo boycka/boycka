@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=7CFC00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama!;Full-Stack+Developer+from+Morocco;PHP+%7C+Java+%7C+C%2B%2B+%7C+JS+%7C+React+%7C+MySQL+%7C+Tailwind" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=ff0000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama!;Full-Stack+Developer+from+Morocco;PHP+%7C+Java+%7C+C%2B%2B+%7C+JS+%7C+React+%7C+MySQL+%7C+Tailwind" />
 </div>
-
+<div align="center">
+  <img src="./Workflows/Black Minimal Motivation Quote LinkedIn Banner.png" />
+</div>
 ---
 
 ### 💼 About Me
@@ -41,23 +43,21 @@
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/oussamabok">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:oussamabouikourdassen@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
-  <a href="https://discord.com/users/your-discord-id">
+  <a href="https://discord.com/users/.ossm">
     <img src="https://skillicons.dev/icons?i=discord" height="30" />
   </a>
-  <a href="https://instagram.com/yourprofile">
+  <a href="https://instagram.com/_boy_cka">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
 </div>
 
 ---
-
-### 🧠 My Contribution Graph
 
 ### 📈 My GitHub Contributions
 
