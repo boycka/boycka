@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1066118628556156988/1193246326071230625/Banner.png?ex=65ac043d&is=65998f3d&hm=5f5452a0ce8bc51991423b16c3cdf0a05a12d320b462bbf61369c73b4b3de6e3&)
+![MasterHead](Workflows/Black Minimal Motivation Quote LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm OUSSAMA</h1>
 
 ###
