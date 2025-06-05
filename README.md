@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=ff0000&width=400&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama!;Full-Stack+Developer+from+Morocco;PHP+%7C+Java+%7C+C%2B%2B+%7C+JS+%7C+React+%7C+MySQL+%7C+Tailwind"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=ff0000&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama!;Full-Stack+Developer+from+Morocco;PHP+%7C+Java+%7C+C%2B%2B+%7C+JS+%7C+React+%7C+MySQL+%7C+Tailwind"/>
 </div>
 <div align="center">
   <img src="./Workflows/Black Minimal Motivation Quote LinkedIn Banner.png" />
