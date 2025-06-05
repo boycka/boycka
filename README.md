@@ -4,6 +4,12 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/db9bc4e95783ca46d89ed67dc3cb5d9d5e60ded49015d56d8561662e244cb6ad/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65662f32642f62302f65663264623038383564393466643134396134623739313439323362623261332e676966"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
@@ -79,10 +85,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/boycka/boycka/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/db9bc4e95783ca46d89ed67dc3cb5d9d5e60ded49015d56d8561662e244cb6ad/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65662f32642f62302f65663264623038383564393466643134396134623739313439323362623261332e676966"  />
-</div>
-
-###
