@@ -5,7 +5,6 @@
 
 <div align="center">
   <img src="./Workflows/Black Minimal Motivation Quote LinkedIn Banner.png" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ1aGJ5Z3J0d3F4eXl6Y2R5Y2N4b2J4eGJwN2V1ZzB5bGJmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
 </div>
 
 ### 🚀 Tech Stack
@@ -53,7 +52,7 @@
   <a href="mailto:oussamabouikourdassen@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
-  <a href="https://discord.com/users/.ossm">
+  <a href="https://discord.com/users/boy-cka">
     <img src="https://skillicons.dev/icons?i=discord" height="30" />
   </a>
   <a href="https://instagram.com/_boy_cka">
