@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=ff0000&width=445&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama!;Full-Stack+Developer+from+Morocco;PHP+%7C+Java+%7C+C%2B%2B+%7C+JS+%7C+React+%7C+MySQL+%7C+Tailwind"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=ff0000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama!;Full-Stack+Developer+from+Morocco;PHP+%7C+Java+%7C+C%2B%2B+%7C+JS+%7C+React+%7C+MySQL+%7C+Tailwind"/>
 </div>
 <div align="center">
   <img src="./Workflows/Black Minimal Motivation Quote LinkedIn Banner.png" />
@@ -14,20 +14,21 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boycka&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boycka&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=boycka&show_icons=true&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boycka&layout=compact&theme=github_dark&hide_border=true" height="180" />
 </div>
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=boycka&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=boycka&theme=dark&hide_border=true" />
 </div>
+
 
 ---
 
