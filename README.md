@@ -7,12 +7,26 @@
   <img src="./Workflows/Black Minimal Motivation Quote LinkedIn Banner.png" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ1aGJ5Z3J0d3F4eXl6Y2R5Y2N4b2J4eGJwN2V1ZzB5bGJmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
+</div>
 
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,php,react,java,cpp,mysql,nodejs,laravel,python,vscode,intellij,linux,git,github,mongodb,bootstrap,express" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs" height="40" alt="javascript typescript react nextjs nodejs express nestjs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,py,cpp" height="40" alt="php laravel java python cplusplus" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" height="40" alt="mysql mongodb postgresql redis" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass" height="40" alt="html5 css3 tailwindcss bootstrap sass" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,azure,gcp" height="40" alt="git github gitlab docker aws azure gcp" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,nginx,jenkins,figma,vscode,idea" height="40" alt="linux nginx jenkins figma vscode intellij" />
 </div>
+
 ---
 
 ## 📊 GitHub Stats
