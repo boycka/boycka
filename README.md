@@ -59,10 +59,9 @@
 
 ### 🧠 My Contribution Graph
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boycka/boycka/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boycka/boycka/output/pacman-contribution-graph.svg">
-    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/boycka/boycka/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+### 📈 My GitHub Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boycka&theme=github-compact" alt="Contribution Graph" />
+</div>
+
