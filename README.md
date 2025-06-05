@@ -1,19 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=ff0000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama!;Full-Stack+Developer+from+Morocco;PHP+%7C+Java+%7C+C%2B%2B+%7C+JS+%7C+React+%7C+MySQL+%7C+Tailwind" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=ff0000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama!;Full-Stack+Developer+from+Morocco;PHP+%7C+Java+%7C+C%2B%2B+%7C+JS+%7C+React+%7C+MySQL+%7C+Tailwind" width="100vh"/>
 </div>
 <div align="center">
   <img src="./Workflows/Black Minimal Motivation Quote LinkedIn Banner.png" />
 </div>
----
 
-### 💼 About Me
-
-🎓 Currently a 3rd year student in **Computer Engineering** at **EHEI Oujda**  
-🌐 Passionate about **web development**, system design & software architecture  
-🛠️ Constantly learning new technologies and improving my skills  
-💬 I love solving real-world problems with code  
-
----
 
 ### 🚀 Tech Stack
 
